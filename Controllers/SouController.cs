@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Entity;
+using Entity1;
 using System;
 using System.Text.Json;
 using System.Xml.Serialization;
@@ -7,7 +7,7 @@ namespace StudentWebsite_ClassLibrary_.Controllers
 {
     public class SouController : Controller
     {
-        [Route("/")]
+        
         public IActionResult Index()
         {
             //Connverting object to Json File

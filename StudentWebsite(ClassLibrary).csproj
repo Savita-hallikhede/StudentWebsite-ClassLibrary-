@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -17,8 +17,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="Entity">
-      <HintPath>..\Entity\bin\Debug\net8.0\Entity.dll</HintPath>
+    <Reference Include="Entity1">
+      <HintPath>..\Entity1\bin\Debug\net8.0\Entity1.dll</HintPath>
+    </Reference>
+    <Reference Include="Service">
+      <HintPath>..\Service\bin\Debug\net8.0\Service.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceContracts">
+      <HintPath>..\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll</HintPath>
     </Reference>
   </ItemGroup>
 

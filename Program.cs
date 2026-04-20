@@ -1,5 +1,7 @@
-using Entity;
+using Entity1;
 using Microsoft.EntityFrameworkCore;
+using Service;
+using ServiceContracts;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +11,8 @@ builder.Services.AddControllersWithViews();
 
 
 //Add DbContext
+builder.Services.AddScoped<IStdService, StdService>();
+
 builder.Services.AddDbContext<StudentWebsiteDbContext>(Soumi =>
 {
     Soumi.UseSqlServer(builder.Configuration.GetConnectionString("StudentWebCON"));
@@ -16,6 +20,8 @@ builder.Services.AddDbContext<StudentWebsiteDbContext>(Soumi =>
 
 //Build app
 var app = builder.Build();
+
+app.UseStaticFiles();
 
 //Middleware
 app.UseRouting();
@@ -25,7 +31,7 @@ app.MapControllers();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Sou}/{action=Index}/{id?}");
+    pattern: "{controller=Std}/{action=ShowStdData}/{id?}");
 
 //Run app
 app.Run();
