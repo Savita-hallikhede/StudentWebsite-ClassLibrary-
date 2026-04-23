@@ -1,0 +1,15 @@
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\bin\Debug\net8.0\Entity1.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\bin\Debug\net8.0\Entity1.pdb
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date

@@ -1,0 +1,5 @@
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\TestingMethod\obj\Debug\net8.0\TestingMethod.csproj.AssemblyReference.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\TestingMethod\obj\Debug\net8.0\TestingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\TestingMethod\obj\Debug\net8.0\TestingMethod.AssemblyInfoInputs.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\TestingMethod\obj\Debug\net8.0\TestingMethod.AssemblyInfo.cs
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\TestingMethod\obj\Debug\net8.0\TestingMethod.csproj.CoreCompileInputs.cache

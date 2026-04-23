@@ -1,0 +1,14 @@
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\bin\Debug\net8.0\Entity1.deps.json
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\bin\Debug\net8.0\Entity1.runtimeconfig.json
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\bin\Debug\net8.0\Entity1.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\bin\Debug\net8.0\Entity1.pdb
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.csproj.AssemblyReference.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.AssemblyInfoInputs.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.AssemblyInfo.cs
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.csproj.CoreCompileInputs.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\refint\Entity1.dll
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.pdb
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\Entity1.genruntimeconfig.cache
+C:\Users\savit\OneDrive\Desktop\StudentWebsite\Entity1\obj\Debug\net8.0\ref\Entity1.dll
