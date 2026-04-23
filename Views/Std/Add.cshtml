@@ -1,0 +1,54 @@
+﻿@using ServiceContracts.DTO
+@addTagHelper "*, Microsoft.AspNetCore.Mvc.TagHelpers" 
+ @model StdAddRequest
+
+<head>
+    <link rel="stylesheet" href="~/bootstrap-4.0.0-dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/bootstrap-4.0.0-dist/css/StyleSheet.css" />
+
+</head>
+
+<div class="form-box">
+
+    <h3 class="text-center">Add Student</h3>
+
+    <form asp-action="Add" asp-controller="Std" method="post">
+
+        <!-- StdName with checkbox -->
+
+
+        <label>Name</label> 
+        <input asp-for="StdName" class="form-control" />
+
+        <!-- Department -->
+        <label>Department</label>
+        <select asp-for="StdDprt" class="form-control">
+            <option value="">--Select Department--</option>
+            <option value="CSE">CSE</option>
+            <option value="MECH">MECH</option>
+            <option value="CIVIL">CIVIL</option>
+            <option value="ECE">ECE</option>
+        </select>
+
+        <!-- College Id -->
+        <label>College Id</label>
+        <input asp-for="ClgId" class="form-control" />
+
+        <!-- DOB -->
+        <label>Date of Birth</label>
+        <input asp-for="DOB" type="date" class="form-control" />
+
+        <!-- Address -->
+        <label>Address</label>
+        <input asp-for="Address" class="form-control" />
+
+        <br />
+
+        <button type="submit" class="btn btn-primary w-100">
+            Submit
+        </button>
+
+    </form>
+
+</div>

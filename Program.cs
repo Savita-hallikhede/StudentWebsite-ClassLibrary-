@@ -11,6 +11,7 @@ builder.Services.AddControllersWithViews();
 
 
 //Add DbContext
+builder.Services.AddScoped<IClgService, ClgService>();  
 builder.Services.AddScoped<IStdService, StdService>();
 
 builder.Services.AddDbContext<StudentWebsiteDbContext>(Soumi =>

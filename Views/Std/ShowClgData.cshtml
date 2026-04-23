@@ -1,0 +1,25 @@
+﻿@using ServiceContracts.DTO;
+@model List<ClgResponse>
+<html>
+    <head>
+    <link rel="stylesheet" href="~/bootstrap-4.0.0-dist/css/bootstrap.min.css" />
+    </head>
+<h2>College Data</h2>
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th>College ID</th>
+            <th>College Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var clg in Model)
+        {
+            <tr>
+                <td>@clg.ClgId</td>
+                <td>@clg.ClgName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</html>
